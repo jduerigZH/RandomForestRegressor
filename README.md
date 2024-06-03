@@ -1,0 +1,2 @@
+# RandomForestRegressor
+predict electricity consumption of individual households using RandomForestRegressor
